@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "KZCategory"
   s.version      = "1.0"
-  s.summary      = "A short description of KZCategory."
+  s.summary      = "description KZCategory"
 
   s.description  = <<-DESC
                    A longer description of KZCategory in Markdown format.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "http://EXAMPLE/KZCategory"
+  s.homepage     = "https://github.com/pankunzhao/KZCategory"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
